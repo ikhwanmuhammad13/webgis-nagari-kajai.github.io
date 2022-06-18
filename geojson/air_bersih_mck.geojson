@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "air_bersih_mck",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Air Sumur Galian", "TDS": "74", "P.h": 5.98, "Salt": 0, "Konduktivi": "12.8", "Turbidity": 3.2, "Suhu": 25.7, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.930583333000072, 0.165468333000035, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Mata Air", "TDS": "17", "P.h": 6.29, "Salt": 0, "Konduktivi": "2.8", "Turbidity": 3.8, "Suhu": 29.8, "Do": "0.01" }, "geometry": { "type": "Point", "coordinates": [ 99.933276667000086, 0.165481667000051, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sumur Galian", "TDS": "30", "P.h": 6.45, "Salt": 0, "Konduktivi": "6", "Turbidity": 8.4, "Suhu": 24.2, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.931493333000049, 0.166426667000053, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sumur Galian", "TDS": "51", "P.h": 5.3, "Salt": 0, "Konduktivi": "7.1", "Turbidity": 0.0, "Suhu": 29.4, "Do": "0.02" }, "geometry": { "type": "Point", "coordinates": [ 99.930645, 0.165967, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sumur Galian", "TDS": "25", "P.h": 6.43, "Salt": 0, "Konduktivi": "4.6", "Turbidity": 0.0, "Suhu": 26.5, "Do": "0.11" }, "geometry": { "type": "Point", "coordinates": [ 99.930264286000067, 0.163861144000066, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sumur Galian", "TDS": "29", "P.h": 6.28, "Salt": 0, "Konduktivi": "4.9", "Turbidity": 0.0, "Suhu": 26.4, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.929978333000065, 0.164296667000031, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sumur Galian", "TDS": "38", "P.h": 5.84, "Salt": 0, "Konduktivi": "6.1", "Turbidity": 0.0, "Suhu": 26.1, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.92989833300004, 0.163281667000035, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Aliran Sungai Kecil", "TDS": "9", "P.h": 6.7, "Salt": 0, "Konduktivi": "1.6", "Turbidity": 14.4, "Suhu": 24.6, "Do": "0.08" }, "geometry": { "type": "Point", "coordinates": [ 99.936068333000037, 0.16009, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Parit", "TDS": "19", "P.h": 6.84, "Salt": 0, "Konduktivi": "3.7", "Turbidity": 31.4, "Suhu": 26.0, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.934636667000063, 0.161738333000073, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air PDAM", "TDS": "16", "P.h": 9.12, "Salt": 0, "Konduktivi": "3.2", "Turbidity": 0.0, "Suhu": 28.0, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.933718333000058, 0.162026667000021, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sumur Galian", "TDS": "18", "P.h": 6.84, "Salt": 0, "Konduktivi": "3,2", "Turbidity": 18.4, "Suhu": 30.3, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.933061900000041, 0.167291100000057, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sungai", "TDS": "31", "P.h": 7.26, "Salt": 0, "Konduktivi": "5,3", "Turbidity": 7.5, "Suhu": 28.8, "Do": "0,02" }, "geometry": { "type": "Point", "coordinates": [ 99.929978333000065, 0.164296667000031, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sungai", "TDS": "18", "P.h": 6.92, "Salt": 0, "Konduktivi": "3,3", "Turbidity": 5.2, "Suhu": 28.4, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.92989833300004, 0.163281667000035, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sungai Besar", "TDS": "31", "P.h": 7.23, "Salt": 0, "Konduktivi": "5,1", "Turbidity": 7.3, "Suhu": 28.8, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.933718333000058, 0.162026667000021, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Pamsimas", "TDS": "49", "P.h": 7.18, "Salt": 0, "Konduktivi": "8,1", "Turbidity": 7.6, "Suhu": 28.1, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.93401833300004, 0.162511667000047, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Pamsimas", "TDS": "50", "P.h": 6.4, "Salt": 0, "Konduktivi": "8,6", "Turbidity": 10.8, "Suhu": 32.3, "Do": "0,04" }, "geometry": { "type": "Point", "coordinates": [ 99.930856790000064, 0.166425080000067, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sungai", "TDS": "19", "P.h": 6.62, "Salt": 0, "Konduktivi": "3,2", "Turbidity": 9.8, "Suhu": 30.8, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.93029628000005, 0.163299470000027, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air PDAM", "TDS": "18", "P.h": 6.96, "Salt": 0, "Konduktivi": "3,2", "Turbidity": 9.7, "Suhu": 29.3, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.930652200000054, 0.165793480000048, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Pamsimas", "TDS": "50", "P.h": 6.44, "Salt": 0, "Konduktivi": "8,2", "Turbidity": 6.7, "Suhu": 30.3, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.930567230000065, 0.165572040000029, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Sungai", "TDS": "25", "P.h": 7.44, "Salt": 0, "Konduktivi": "8,5", "Turbidity": 7.9, "Suhu": 28.7, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 99.930735581000079, 0.165150342000061, 0.0 ] } }
+]
+}

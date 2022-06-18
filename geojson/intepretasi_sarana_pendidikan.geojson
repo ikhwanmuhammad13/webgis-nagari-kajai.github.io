@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "intepretasi_sarana_pendidikan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "MAN 4 Pasaman barat", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.940457909000088, 0.171841552000046, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "MIS Al Wahid Kajai Kampung Tengah", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.931033380000088, 0.167486610000026, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "MTs Muhammadiyah Kajai", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.928478810000058, 0.15991415000002, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SDN 02 Talamau", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.92798386000004, 0.161325420000026, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SDN 08 Talamau", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.931452670000056, 0.169989120000025, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SDN 16 Talamau", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.927303840000036, 0.149949010000057, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SDN 22 Talamau", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.93267564000007, 0.165350800000056, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SLB Miftahul Khoir Belakang Pasar Kajai", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.930162070000051, 0.161355190000052, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SMPN 2 Talamau", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.926934010000082, 0.152151790000062, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "TK Aba Kajai", "Jenis": "Sarana Pendidikan" }, "geometry": { "type": "Point", "coordinates": [ 99.928617580000036, 0.160930090000022, 0.0 ] } }
+]
+}

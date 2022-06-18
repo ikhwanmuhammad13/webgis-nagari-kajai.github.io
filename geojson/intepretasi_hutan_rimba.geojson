@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "intepretasi_hutan_rimba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Hutan Rimba 1", "Jenis": "Lahan Hutan Rimba" }, "geometry": { "type": "Point", "coordinates": [ 58.464911231000031, 55.022994104000077, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hutan Rimba 2", "Jenis": "Lahan Hutan Rimba" }, "geometry": { "type": "Point", "coordinates": [ 100.358619, -0.942020599999978, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hutan Rimba 3", "Jenis": "Lahan Hutan Rimba" }, "geometry": { "type": "Point", "coordinates": [ 99.939344400000039, 0.177218144000051, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hutan Rimba 4", "Jenis": "Lahan Hutan Rimba" }, "geometry": { "type": "Point", "coordinates": [ 99.936383091000039, 0.18341175300003, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hutan Rimba 5", "Jenis": "Lahan Hutan Rimba" }, "geometry": { "type": "Point", "coordinates": [ 99.94520201000006, 0.17822037600007, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hutan Rimba 6", "Jenis": "Lahan Hutan Rimba" }, "geometry": { "type": "Point", "coordinates": [ 100.1408, -0.3506, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hutan Rimba 7", "Jenis": "Lahan Hutan Rimba" }, "geometry": { "type": "Point", "coordinates": [ 100.1408, -0.3506, 0.0 ] } }
+]
+}

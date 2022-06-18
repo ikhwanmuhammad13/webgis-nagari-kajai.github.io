@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "intepretasi_sarana_peribadatan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Mushalla Ukhuwah Al Falah", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.929639784000074, 0.167501788000038, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mushalla Al Muttaqin", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.932777172000044, 0.165441743000031, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mushalla MIS Al Wahid", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.941289427000072, 0.171046188000048, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Masjid Nurul Islam", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.940729058000045, 0.171180434000064, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mushalla Nurul Falah", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.934202694000078, 0.169552332000023, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mushalla Babussalam", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.930708245000062, 0.16623744900005, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Masjid Nurul Yaqin", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.931191371000068, 0.166291405000038, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Masjid Al Mujahidin", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.930942534000053, 0.167470613000035, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mushalla Wustho", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.932018565000078, 0.168742411000039, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mushalla Nikmah", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.93500640600007, 0.167713037000055, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mushalla Nurul Ikhlas", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.935631559000058, 0.167508585000064, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Masjid Raya Kajai", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.936888975000045, 0.166973683000037, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mushalla Nurul Hikmah", "Jenis": "Sarana Peribadatan" }, "geometry": { "type": "Point", "coordinates": [ 99.939017025000055, 0.170471976000044, 0.0 ] } }
+]
+}

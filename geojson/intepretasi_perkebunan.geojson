@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "intepretasi_perkebunan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Pohon Karet", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.942025311000066, 0.15305362600003, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Pohon Karet", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.959716667000066, 0.152666667000062, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Pohon Karet", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.938630528000033, 0.15911262000003, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Pohon Karet", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.938630528000033, 0.15911262000003, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kelapa Sawit", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.948252184000069, 0.156256480000025, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kelapa Sawit", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.948252184000069, 0.156256480000025, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kelapa Sawit", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.932565668000052, 0.163622688000032, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kelapa Sawit", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.940934232000075, 0.166519913000059, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kelapa Sawit", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.932139101000075, 0.165597044000037, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kelapa Sawit", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.940611642000079, 0.159171424000021, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kelapa Sawit", "Jenis": "Lahan Perkebunan" }, "geometry": { "type": "Point", "coordinates": [ 99.940611642000079, 0.159171424000021, 0.0 ] } }
+]
+}

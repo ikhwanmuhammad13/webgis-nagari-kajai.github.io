@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "intepretasi_sarana_kesehatan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Puskesmas Nagari Kajai", "Jenis": "Sarana Kesehatan" }, "geometry": { "type": "Point", "coordinates": [ 99.938926427000069, 0.170025942000052, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Polindes Jorong limpato kajai, Kec. Talamau", "Jenis": "Sarana Kesehatan" }, "geometry": { "type": "Point", "coordinates": [ 99.936204900000064, 0.168442800000037, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Polindes Bidan Yoan Mairana, Jorong Kampung Alang", "Jenis": "Sarana Kesehatan" }, "geometry": { "type": "Point", "coordinates": [ 99.935855600000082, 0.168154600000037, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Praktek Dokter Umum dr. Sri Afni", "Jenis": "Sarana Kesehatan" }, "geometry": { "type": "Point", "coordinates": [ 99.928938043000073, 0.160723171000029, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Praktek Umum & Dokter Keluarga", "Jenis": "Sarana Kesehatan" }, "geometry": { "type": "Point", "coordinates": [ 99.928384675000075, 0.159639758000026, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Polindes Bidan Ica", "Jenis": "Sarana Kesehatan" }, "geometry": { "type": "Point", "coordinates": [ 99.930696739000041, 0.157749262000038, 0.0 ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "air_minum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32647" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Air Sawah", "TDS": "22", "Ph": "7.33", "Salt": 0, "Konduktivi": "4.3", "Turbidity": 2.4, "Suhu": 27.7, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 603585.208437587018125, 18397.416575394850952, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Pamsimas", "TDS": "47", "Ph": "6.93", "Salt": 0, "Konduktivi": "8.3", "Turbidity": 3.2, "Suhu": 25.3, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 603494.169476840412244, 18037.465418118361413, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Mata Air", "TDS": "10", "Ph": "6.74", "Salt": 0, "Konduktivi": "1.7", "Turbidity": 0.0, "Suhu": 26.5, "Do": "0" }, "geometry": { "type": "Point", "coordinates": [ 603571.725799337727949, 18256.500360019355867, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Pamsimas", "TDS": "17", "Ph": "7,17", "Salt": 0, "Konduktivi": "2,8", "Turbidity": 0.0, "Suhu": 30.1, "Do": "0,2" }, "geometry": { "type": "Point", "coordinates": [ 603679.658360537723638, 18448.48387485870262, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air Mata Air", "TDS": "18", "Ph": "7,13", "Salt": 0, "Konduktivi": "3,4", "Turbidity": 0.0, "Suhu": 29.9, "Do": "0,5" }, "geometry": { "type": "Point", "coordinates": [ 603726.788970889756456, 18457.219145742401452, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Air PDAM", "TDS": "17", "Ph": "6,93", "Salt": 0, "Konduktivi": "1,9", "Turbidity": 2.5, "Suhu": 30.9, "Do": "0,2" }, "geometry": { "type": "Point", "coordinates": [ 603651.020286700688303, 18635.487775010838959, 0.0 ] } }
+]
+}

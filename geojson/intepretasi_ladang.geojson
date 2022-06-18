@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "intepretasi_ladang",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Ladang Jagung", "Jenis": "Ladang" }, "geometry": { "type": "Point", "coordinates": [ 99.92902261100005, 0.16438425900003, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ladang", "Jenis": "Ladang" }, "geometry": { "type": "Point", "coordinates": [ 99.936378919000049, 0.161009695000075, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ladang Kacang", "Jenis": "Ladang" }, "geometry": { "type": "Point", "coordinates": [ 99.905489926000087, 0.172328481000022, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ladang", "Jenis": "Ladang" }, "geometry": { "type": "Point", "coordinates": [ 99.932339992000038, 0.157861264000076, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ladang Cabai dan Kunyit", "Jenis": "Ladang" }, "geometry": { "type": "Point", "coordinates": [ 99.931982116000086, 0.157223220000049, 0.0 ] } }
+]
+}
